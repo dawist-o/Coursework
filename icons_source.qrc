@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/brush.png</file>
+        <file>resources/css_image.png</file>
+        <file>resources/download.png</file>
+        <file>resources/eraser.png</file>
+        <file>resources/fill.png</file>
+        <file>resources/keyboard.png</file>
+        <file>resources/minus_b.png</file>
+        <file>resources/minus_w.png</file>
+        <file>resources/picker.png</file>
+        <file>resources/plus_b.png</file>
+        <file>resources/plus_w.png</file>
+        <file>resources/user.png</file>
+    </qresource>
+</RCC>
